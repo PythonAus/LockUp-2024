@@ -1,5 +1,7 @@
-# LockIT 2024 A Tool To Stop Cellebrite
+# LockUP 2024 A Tool To Stop Cellebrite
 (LockUp by Matt Bergin was the inspiration)
+
+(Renamed to LockIT in the app)
 
 ---
 
