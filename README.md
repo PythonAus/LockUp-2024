@@ -1,5 +1,5 @@
-# LockIT 2024 with Added Features
-(Lock up was the inspiration)
+# LockIT 2024 A Tool To Stop Cellebrite
+(LockUp by Matt Bergin was the inspiration)
 
 ---
 
