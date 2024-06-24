@@ -6,11 +6,11 @@
 ---
 
 ## NOTE
-**THE PASSWORD PROMPT FOR LOCKIT WILL NOT BE SHOWN ON YOUR NORMAL USER LOCK SCREEN.  
-IF A USB CONNECTION IS MADE WITH YOUR USER SCREEN LOCKED, YOU SHOULD UNLOCK YOUR DEVICE WITHIN 10 SECONDS TO ENTER THE LOCKIT PASSWORD, OR YOUR PHONE WILL FORMAT.  
-JUST CHARGING YOUR DEVICE WILL NOT START THE PROCESS, AND NO PASSWORD PROMPT WILL BE REQUESTED.**
+**THE PASSWORD PROMPT FOR LOCKIT WILL NOT BE SHOWN ON YOUR NORMAL USER LOCK SCREEN. ITS THERE BUT HIDDEN**
 
----
+**IF A USB CONNECTION IS MADE WHILE YOUR USER-SCREEN IS LOCKED, YOU SHOULD UNLOCK YOUR DEVICE WITHIN 10 SECONDS TO ENTER THE LOCKIT PASSWORD, OR YOUR PHONE WILL FORMAT.**
+
+**JUST CHARGING YOUR DEVICE WILL NOT START THE PROCESS, AND NO PASSWORD PROMPT WILL BE REQUESTED.**
 
 **FOR YOUR NORMAL EVERYDAY USER LOCK SCREEN, YOU MUST USE A PASSWORD-BASED SCREEN LOCK, NO PASSCODES OR SWIPE STYLE, IN ORDER FOR LOCKIT TO WORK.**
 
@@ -31,11 +31,14 @@ JUST CHARGING YOUR DEVICE WILL NOT START THE PROCESS, AND NO PASSWORD PROMPT WIL
 ---
 
 ### Plausible Deniability Password
-Install a password that will format your phone directly from the lock screen when entered. This password can be as short as one character. This feature is particularly useful when you need to hand over your phone to authorities; you can provide them with this deniability password instead of your real one, and they will inadvertently format your device.
+Use the password on your actual 'real' lock screen and your phone will format. This password can be as short as one character. 
+---
+
+This feature is particularly useful when you need to hand over your phone to authorities; you can provide them with this deniability password instead of your real one, and they will inadvertently format your device.
 
 ---
 
-This functionality was initially uploaded by Matt Bergin with partial code, and I completed it using ChatGPT 4.0.
+This app design was initially uploaded by Matt Bergin with partial code completion so criminals could not use it. I hope criminals do use it.
 
 ---
 
@@ -50,4 +53,4 @@ Tested with Android 13 and Android 14 using API 30.
 ---
 
 ### Message to Cellebrite
-**F**k you Cellebrite.**
+**Fuk you Cellebrite.**
