@@ -1,7 +1,7 @@
 # LockUP 2024 A Tool To Stop Cellebrite
-(LockUp by Matt Bergin was the inspiration)
-Email: newrjsinoz@gmail.com
-(Renamed to LockIT in the app)
+
+https://ghostit.app/lockup
+
 
 ---
 
