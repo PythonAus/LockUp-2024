@@ -1,19 +1,21 @@
 # LockUP 2024 A Tool To Stop Cellebrite
 
-https://ghostit.app/lockup
-https://ghostit.app/videos
+https://dataguardpro.com.au
+Digital forensics, USB, Bluetooth, sd card, disconnected from the network and uninstaller protection for Android devices.
+
+password ptotect EVERYTHING with device formatting if the password is incorrect.
 
 
 ---
 
 ## NOTE
-**THE PASSWORD PROMPT FOR LOCKUP WILL NOT BE SHOWN ON YOUR NORMAL USER LOCK SCREEN. ITS THERE BUT HIDDEN**
+**THE PASSWORD PROMPT FOR DATAGUARD PRO WILL NOT BE SHOWN ON YOUR NORMAL USER LOCK SCREEN. ITS THERE BUT HIDDEN**
 
-**IF A USB CONNECTION IS MADE WHILE YOUR USER-SCREEN IS LOCKED, YOU SHOULD UNLOCK YOUR DEVICE WITHIN 10 SECONDS TO ENTER THE LOCKIT PASSWORD, OR YOUR PHONE WILL FORMAT.**
+**IF A USB CONNECTION IS MADE WHILE YOUR USER-SCREEN IS LOCKED, YOU SHOULD UNLOCK YOUR DEVICE WITHIN 40 SECONDS TO ENTER THE DATAGUARD PRO PASSWORD, OR YOUR PHONE WILL FORMAT.**
 
 **JUST CHARGING YOUR DEVICE WILL NOT START THE PROCESS, AND NO PASSWORD PROMPT WILL BE REQUESTED.**
 
-**FOR YOUR NORMAL EVERYDAY USER LOCK SCREEN, YOU MUST USE A PASSWORD-BASED SCREEN LOCK, NO PASSCODES OR SWIPE STYLE, IN ORDER FOR LOCKIT TO WORK.**
+**FOR YOUR NORMAL EVERYDAY USER LOCK SCREEN, YOU MUST USE A PASSWORD-BASED SCREEN LOCK, NO PASSCODES OR SWIPE STYLE, IN ORDER FOR DATAGUARD PRO TO WORK.**
 
 ---
 
@@ -39,8 +41,7 @@ This feature is particularly useful when you need to hand over your phone to aut
 
 ---
 
-This app design was initially uploaded by Matt Bergin with partial code completion so criminals could not use it. I hope criminals do use it.
-
+This app design was initially uploaded by Matt Bergin with partial code completion so criminals could not use it.
 ---
 
 ### Requirements
@@ -49,7 +50,7 @@ This app design was initially uploaded by Matt Bergin with partial code completi
 - Use a character-based password for your existing lock screen.
 
 ### Compatibility
-Tested with Android 13 and Android 14 using API 30.
+Tested with Android 9 and Android 15 using API 30.
 
 ---
 
